@@ -12,7 +12,7 @@ I'm currently honing my skills in cloud technology, IAM, and Governance Risk & C
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,html,css,nodejs,java,docker,react,graphql,express,postgres,mongodb,kubernetes,pytorch,ubuntu,Bash)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,html,css,nodejs,java,docker,react,graphql,mongodb,kubernetes,pytorch,ubuntu,azure,windows,Bash)
 
 ## Certifications
 
